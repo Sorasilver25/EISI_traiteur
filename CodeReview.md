@@ -1,4 +1,4 @@
-Code review de marine sur l'exercice 3
+Code review de marine corrigé par Adrien sur l'exercice 3
 
 Bonne idée de faire un json des listes des chambre froide 1,2 et 3.
 ___________________________________ 
